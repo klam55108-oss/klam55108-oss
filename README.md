@@ -10,8 +10,6 @@ I work across the full development lifecycle — from architecture and API desig
 
 </div>
 
----
-
 ## 🧠 Core Expertise
 
 ### 🤖 AI & LLM Engineering
@@ -22,8 +20,6 @@ I work across the full development lifecycle — from architecture and API desig
 
 **OpenAI · Claude · Gemini · LangChain · RAG · AI Agents · MCP · Embeddings · Vector Search · Computer Vision**
 
----
-
 ### 🐍 Python & Backend
 
 <p>
@@ -31,8 +27,6 @@ I work across the full development lifecycle — from architecture and API desig
 </p>
 
 **Python · FastAPI · Django · Flask · AsyncIO · REST APIs · GraphQL · WebSockets**
-
----
 
 ### 🦫 Go
 
@@ -42,8 +36,6 @@ I work across the full development lifecycle — from architecture and API desig
 
 **Go · REST APIs · Backend Services · Concurrency · Microservices · Cloud-Native Development**
 
----
-
 ### ⚛️ Full-Stack Development
 
 <p>
@@ -51,8 +43,6 @@ I work across the full development lifecycle — from architecture and API desig
 </p>
 
 **TypeScript · JavaScript · React · Next.js · Node.js · Express · Tailwind CSS**
-
----
 
 ### 🗄️ Data & Databases
 
@@ -62,8 +52,6 @@ I work across the full development lifecycle — from architecture and API desig
 
 **PostgreSQL · MySQL · MongoDB · Redis · Supabase · Elasticsearch**
 
----
-
 ### ☁️ Cloud & DevOps
 
 <p>
@@ -72,19 +60,13 @@ I work across the full development lifecycle — from architecture and API desig
 
 **AWS · GCP · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD · Linux**
 
----
-
 ## ⚙️ AI Automation
 
 **AI Agents · RAG Pipelines · LLM Workflows · Structured Outputs · Function Calling · MCP · n8n · Make · Zapier · Webhooks · API Integrations**
 
----
-
 ## 🔧 Tools
 
 [![Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,redis,supabase,aws,gcp,docker,kubernetes,terraform,githubactions,git,github\&perline=11)](https://skillicons.dev)
-
----
 
 <p align="center">
   <b>AI · Python · Go · Backend · Full Stack · Cloud · Automation</b>
