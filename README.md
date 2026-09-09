@@ -1,179 +1,91 @@
-### Welcome to my profile 👋
-
 <div align="left">
 
-<b>
-I am a senior full-stack engineer focused on building production-ready SaaS platforms, AI-powered applications, backend systems, and automation workflows. My core experience spans Python, Go, TypeScript, React, Next.js, Node.js, FastAPI, Django, REST APIs, PostgreSQL, and cloud infrastructure.
+### AI & Full-Stack Engineer
 
-I build AI solutions using OpenAI, Claude, Gemini, LangChain, RAG, AI agents, vector databases, and structured LLM workflows. I also work extensively with API integrations, third-party systems, business automation, and scalable cloud applications.
+I build production-ready **AI applications, SaaS platforms, backend systems, and automation workflows**.
 
-I enjoy taking complex business requirements and turning them into clean, reliable software — from architecture and backend services to frontend applications, AI workflows, and production infrastructure. </b>
+My primary focus is **Python, AI/LLMs, Go, APIs, and cloud-native backend engineering**, with strong full-stack experience using React, Next.js, and TypeScript.
+
+I work across the full development lifecycle — from architecture and API design to AI integration, databases, cloud infrastructure, and production deployment.
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧠 Core Expertise
 
-### 🤖 AI & Automation
+### 🤖 AI & LLM Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**AI:** OpenAI • Claude • Gemini • LangChain • RAG • AI Agents • MCP • Vector Search • Computer Vision
-
-**Automation:** n8n • Make • Zapier • Webhooks • API Integrations • Workflow Automation
+**OpenAI · Claude · Gemini · LangChain · RAG · AI Agents · MCP · Embeddings · Vector Search · Computer Vision**
 
 ---
 
-### 💻 Full-Stack Development
+### 🐍 Python & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask" />
 </p>
 
-**Frontend:** React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
-
-**Backend:** Python • FastAPI • Django • Flask • Go • Node.js • Express.js
-
-**APIs:** REST • GraphQL • WebSockets • OAuth 2.0 • JWT • Webhooks
+**Python · FastAPI · Django · Flask · AsyncIO · REST APIs · GraphQL · WebSockets**
 
 ---
 
-### 🗄️ Databases & Data
+### 🦫 Go
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=go" />
 </p>
 
-PostgreSQL • MySQL • MongoDB • Redis • Supabase • Elasticsearch
+**Go · REST APIs · Backend Services · Concurrency · Microservices · Cloud-Native Development**
+
+---
+
+### ⚛️ Full-Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,tailwind" />
+</p>
+
+**TypeScript · JavaScript · React · Next.js · Node.js · Express · Tailwind CSS**
+
+---
+
+### 🗄️ Data & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+</p>
+
+**PostgreSQL · MySQL · MongoDB · Redis · Supabase · Elasticsearch**
 
 ---
 
 ### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux" />
 </p>
 
-AWS • Google Cloud • Docker • Kubernetes • Terraform • GitHub Actions • CI/CD • Linux
+**AWS · GCP · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD · Linux**
 
 ---
 
-# 📊 GitHub Language Distribution
+## ⚙️ AI Automation
 
-<p align="center">
-  <a href="https://github.com/klam55108-oss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klam55108-oss&layout=compact&langs_count=10" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Automatically calculated from my public GitHub repositories.</i>
-</p>
+**AI Agents · RAG Pipelines · LLM Workflows · Structured Outputs · Function Calling · MCP · n8n · Make · Zapier · Webhooks · API Integrations**
 
 ---
 
-# 🛠️ Technology Stack
+## 🔧 Tools
 
-<p align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,redis,supabase,aws,gcp,docker,kubernetes,terraform,githubactions,git,github\&perline=11)](https://skillicons.dev)
-
-</p>
+[![Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,redis,supabase,aws,gcp,docker,kubernetes,terraform,githubactions,git,github\&perline=11)](https://skillicons.dev)
 
 ---
 
-# 🧠 AI & Engineering
-
-### Artificial Intelligence
-
-* OpenAI
-* Claude
-* Gemini
-* LangChain
-* RAG
-* AI Agents
-* MCP
-* Embeddings
-* Vector Databases
-* Computer Vision
-* Structured LLM Outputs
-* Function Calling
-
-### Backend Engineering
-
-* Python
-* FastAPI
-* Django
-* Flask
-* Go
-* Node.js
-* Express.js
-* REST APIs
-* GraphQL
-* WebSockets
-
-### Frontend Engineering
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Responsive UI
-* API-driven applications
-
-### Cloud & Infrastructure
-
-* AWS
-* Google Cloud
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* CI/CD
-* Linux
-* Cloud Architecture
-
-### Data & Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* Supabase
-* Elasticsearch
-* Data Pipelines
-* ETL / ELT
-
----
-
-# 📈 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/klam55108-oss">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=klam55108-oss&show_icons=true&include_all_commits=true&hide_border=true" />
-  </a>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/klam55108-oss">
-    <img src="https://streak-stats.demolab.com/?user=klam55108-oss&hide_border=true" />
-  </a>
-</p>
-
----
-
-# 💬 Let's Build Something
-
-I'm interested in working on **AI products, SaaS platforms, automation systems, backend infrastructure, real estate technology, healthcare technology, and cloud-native applications.**
-
-<p align="center">
-  <b>AI • Python • Go • Full Stack • Cloud • Automation</b>
+  <b>AI · Python · Go · Backend · Full Stack · Cloud · Automation</b>
 </p>
