@@ -2,11 +2,13 @@
 
 <div align="left">
 
-<b>I am a senior full-stack engineer focused on building production-ready SaaS platforms, AI-powered applications, backend systems, and automation workflows. My core experience spans Python, Go, TypeScript, React, Next.js, Node.js, FastAPI, Django, REST APIs, PostgreSQL, and cloud infrastructure.
+<b>
+I am a senior full-stack engineer focused on building production-ready SaaS platforms, AI-powered applications, backend systems, and automation workflows. My core experience spans Python, Go, TypeScript, React, Next.js, Node.js, FastAPI, Django, REST APIs, PostgreSQL, and cloud infrastructure.
 
 I build AI solutions using OpenAI, Claude, Gemini, LangChain, RAG, AI agents, vector databases, and structured LLM workflows. I also work extensively with API integrations, third-party systems, business automation, and scalable cloud applications.
 
-I enjoy taking complex business requirements and turning them into clean, reliable software — from architecture and backend services to frontend applications, AI workflows, and production infrastructure.</b>
+I enjoy taking complex business requirements and turning them into clean, reliable software — from architecture and backend services to frontend applications, AI workflows, and production infrastructure.
+</b>
 
 </div>
 
@@ -63,7 +65,7 @@ AWS • Google Cloud • Docker • Kubernetes • Terraform • GitHub Actions 
 # 📊 GitHub Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klam55108-oss&layout=compact&langs_count=10&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,7 +76,7 @@ AWS • Google Cloud • Docker • Kubernetes • Terraform • GitHub Actions 
 
 # 🛠️ Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,redis,supabase,aws,gcp,docker,kubernetes,terraform,githubactions,git,github\&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,fastapi,django,flask,postgres,mongodb,redis,supabase,aws,gcp,docker,kubernetes,terraform,githubactions,git,github&perline=11)](https://skillicons.dev)
 
 ---
 
@@ -93,7 +95,7 @@ Business Process Automation
 Data Pipelines
 Cloud-Native Applications
 Internal Business Platforms
-```
+````
 
 ---
 
@@ -118,7 +120,7 @@ Automation                 █████████████████
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=klam55108-oss&show_icons=true&hide_border=true&include_all_commits=true" />
 </p>
 
 ---
@@ -126,7 +128,7 @@ Automation                 █████████████████
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=klam55108-oss&hide_border=true" />
 </p>
 
 ---
